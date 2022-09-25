@@ -4,9 +4,10 @@
 
 <script setup>
 import { reactive } from 'vue'
-import Map from './components/Map.vue'
 
 import { createMap } from './utils'
+
+import Map from './components/Map.vue'
 
 const map = reactive(createMap(10, 10, 10))
 </script>
