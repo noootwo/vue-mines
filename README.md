@@ -1,24 +1,12 @@
 # vue-mines
 
-## Project setup
-```
-npm install
-```
+Implement mine-sweeping with vue3.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# to do
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- [x] 生成地图
+- [x] 随机地雷
+- [ ] 计算数字格
+- [ ] 蒙板加鼠标点击操作
+- [ ] 游戏逻辑规则
+- [ ] 游戏回合或得分逻辑
